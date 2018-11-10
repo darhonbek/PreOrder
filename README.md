@@ -5,4 +5,4 @@ Contains:
 - Server Side for managing orders
 
 Client Interface:
-![alt text](https://raw.githubusercontent.com/darhonbek/preorder/PreOrder%20clientside%20screenshot.png)
+![alt text](https://github.com/darhonbek/preorder/blob/master/PreOrder%20clientside%20screenshot.png)
